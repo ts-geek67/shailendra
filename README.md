@@ -1,6 +1,9 @@
 # Hi there, I’m Shailendra 👋  
 
 **A Passionate Full-Stack Developer 🚀 | Building Scalable Web Applications with Modern Technologies 💻**  
+## My Passion for Coding
+
+Not being from an engineering background hasn’t stopped me. My passion drives me to face challenges and learn from every line of code. Each failure teaches me something new, and when I hit a wall, I simply take a breath, reset, and keep pushing forward.
 
 # My Acumen
 
